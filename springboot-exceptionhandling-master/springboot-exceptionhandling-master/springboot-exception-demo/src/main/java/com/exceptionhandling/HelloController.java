@@ -1,4 +1,4 @@
-package com.coderulagam;
+package com.exceptionhandling;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
